@@ -6,7 +6,7 @@
       "classes": 55,
       "Duration": "27 Weeks",
       "Difficulty": "Beginner",
-      "image": "",
+      "image": "https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F6fa25f87a065.jpeg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=f68b3ab26209d648d45c9799a7c2180f",
       "details": "You will learn many things. How assembly language work and how it command the hardware to perform task. The the basics of ARM emulation and program structure.The fundamentals of register, stack, and memory addressing modes.The concepts of arithmetic and logical operators."
     },
     {
