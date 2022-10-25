@@ -1,5 +1,63 @@
 [
     {
-        "id": 1
+      "id": "01",
+      "name": "Assembly Language",
+      "topics": 49,
+      "classes": 55,
+      "Duration": "27 Weeks",
+      "Difficulty": "Beginner",
+      "image": "https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F6fa25f87a065.jpeg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=f68b3ab26209d648d45c9799a7c2180f",
+      "details": "You will learn many things. How assembly language work and how it command the hardware to perform task. The the basics of ARM emulation and program structure.The fundamentals of register, stack, and memory addressing modes.The concepts of arithmetic and logical operators."
+    },
+    {
+      "id": "02",
+      "name": "C Programming",
+      "classes": 51,
+      "topics": 25,
+      "Duration": "30 Weeks",
+      "Difficulty": "Beginner",
+      "image": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
+      "details": "Develop a C program. Control the sequence of the program and give logical outputs. Implement strings in your C program. Store different data types in the same memory. Manage I/O operations in your C program.It will help you understand how a computer works.You will be able to work on open-source projects.Learn through self-study"
+    },
+    {
+      "id": "03",
+      "name": "C++",
+      "topics": 56,
+      "classes": 70,
+      "Duration": "14 Weeks",
+      "Difficulty": "Intermediate",
+      "image": "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1551437392/img/co_img_1539_1633434090.png",
+      "details": "The prime purpose of C++ programming was to add object orientation to the C programming language, which is in itself one of the most powerful programming languages. The core of the pure object-oriented programming is to create an object, in code, that has certain properties and methods.C++ programming language is almost everywhere around the world. For example, it is used for making browsers, applications, and software. Also, C++ is used majorly to make operating systems, and almost all operating systems are built using C++, for example, Mac Os, Windows, Linux, etc. "
+    },
+    {
+      "id": "04",
+      "name": "Python",
+      "topics": 88,
+      "classes": 90,
+      "Duration": "31 Weeks",
+      "Difficulty": "Intermediate",
+      "image": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
+      "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Easy to Learn & Understand.Python's Popularity & High Salary. Open-Source Language.Receives Regular Updates.Low Program Management.Extensive Support Libraries.Increased Productivity."
+    },
+    {
+      "id": "05",
+      "name": "Machine Learning",
+      "topics": 20,
+      "classes": 35,
+      "Duration": "10 Weeks",
+      "Difficulty": "Advance",
+      "image": "https://www.inventateq.com/assets/machine-banner.png",
+      "details": "It is a type of data mining that allows computers to “learn” on their own by analyzing data sets and using pattern recognition. Machine learning has many benefits, including improved accuracy, efficiency, and decision-making.The end-goal is for the machine to execute actions in an increasingly optimized manner by refining patterns and behavior through continuous learning. The three main types of learning algorithms are Supervised, Unsupervised, and Reinforcement."
+    },
+    {
+      "id": "06",
+      "name": "PHP Language",
+      "topics": 116,
+      "classes": 120,
+      "Duration": "40 Weeks",
+      "Difficulty": "Advance",
+      "image": "https://5.imimg.com/data5/CN/SA/SY/GLADMIN-6817437/selection-151-500x500.png",
+      "details": "How to use PHP to add some dynamic aspects to our pages. How to use HTML forms. The difference between GET and POST requests. How to use cookies to store some data in the browser and pass it to the next request.PHP can generate dynamic page content.PHP can create, open, read, write, delete, and close files on the server.PHP can collect form data."
     }
-]
+
+  ]
