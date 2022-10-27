@@ -3,7 +3,7 @@ const app = express()
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
-const courses = require( './Data/Courses.json')
+const courses = require('./Data/Courses.json')
 
 app.use(cors())
 
